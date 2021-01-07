@@ -136,7 +136,7 @@ Image Classification is performed using natural scene imagery. Transfer learning
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/accuracy.PNG" alt="Logo" width="80" height="80">
+    <img src="images/accuracy.PNG" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Accuracy Plots of model</h3>
@@ -148,4 +148,45 @@ Image Classification is performed using natural scene imagery. Transfer learning
 <!-- ROADMAP -->
 ## Test Sample Images
 
+Sample Test Images are predicted and their results are displayed
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/img1.PNG" alt="Logo" width="180" height="180">
+  </a>
+
+  <h3 align="center">Accuracy Plots of model</h3>
+
+  
+</p>
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/img2.PNG" alt="Logo" width="180" height="180">
+  </a>
+
+  <h3 align="center">Accuracy Plots of model</h3>
+
+  
+</p>
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/img3.PNG" alt="Logo" width="180" height="180">
+  </a>
+
+  <h3 align="center">Accuracy Plots of model</h3>
+
+  
+</p>
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/img4.PNG" alt="Logo" width="180" height="180">
+  </a>
+
+  <h3 align="center">Accuracy Plots of model</h3>
+
+  
+</p>
 

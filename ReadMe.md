@@ -130,7 +130,7 @@ Image Classification is performed using natural scene imagery. Transfer learning
 <!-- USAGE EXAMPLES -->
 ## Results
 
-Accuracy Plots of model
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -139,7 +139,7 @@ Accuracy Plots of model
     <img src="images/accuracy.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Accuracy Plots of model</h3>
 
   
 </p>

@@ -6,7 +6,6 @@
 Image Classification is performed using natural scene imagery. Transfer learning is performed using InceptionV3 as backbone.
 
 
-
 <!-- Code -->
 ## Code
 
@@ -105,9 +104,31 @@ Image Classification is performed using natural scene imagery. Transfer learning
                    validation_data = validation_generator,
                    callbacks=[LearningRateScheduler])
   ``` 
+### Model Evaluation
 
+  ```sh
+  acc = history.history['acc']
+  val_acc = history.history['val_acc']
+  loss = history.history['loss']
+  val_loss = history.history['val_loss']
+
+  epochs = range(len(acc))
+
+  plt.plot(epochs, acc, 'r', label='Training accuracy')
+  plt.plot(epochs, val_acc, 'b', label='Validation accuracy')
+  plt.title('Training and validation accuracy')
+  plt.legend()
+  plt.figure()
+
+  plt.plot(epochs, loss, 'r', label='Training Loss')
+  plt.plot(epochs, val_loss, 'b', label='Validation Loss')
+  plt.title('Training and validation loss')
+  plt.legend()
+
+  plt.show()
+  ``` 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Results
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 

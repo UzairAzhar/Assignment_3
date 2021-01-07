@@ -155,7 +155,7 @@ Sample Test Images are predicted and their results are displayed
     <img src="images/img1.PNG" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Accuracy Plots of model</h3>
+ 
 
   
 </p>
@@ -165,7 +165,6 @@ Sample Test Images are predicted and their results are displayed
     <img src="images/img2.PNG" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Accuracy Plots of model</h3>
 
   
 </p>
@@ -175,7 +174,6 @@ Sample Test Images are predicted and their results are displayed
     <img src="images/img3.PNG" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Accuracy Plots of model</h3>
 
   
 </p>
@@ -185,7 +183,6 @@ Sample Test Images are predicted and their results are displayed
     <img src="images/img4.PNG" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Accuracy Plots of model</h3>
 
   
 </p>

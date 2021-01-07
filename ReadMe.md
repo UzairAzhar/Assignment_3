@@ -130,14 +130,24 @@ Image Classification is performed using natural scene imagery. Transfer learning
 <!-- USAGE EXAMPLES -->
 ## Results
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Accuracy Plots of model
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/accuracy.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Best-README-Template</h3>
+
+  
+</p>
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Test Sample Images
+
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
